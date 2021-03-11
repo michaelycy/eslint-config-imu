@@ -1,0 +1,12 @@
+**/*.svg
+coverage/
+LICENSE
+yarn.lock
+yarn-error.log
+.gitignore
+.npmignore
+.prettierignore
+.DS_Store
+.editorconfig
+.eslintignore
+**/*.yml

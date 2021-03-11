@@ -1,0 +1,25 @@
+{
+  "name": "@imu/eslint-config-typescript",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "miyoo <thenear@sina.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelycy/eslint-config-imu/issues"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1"
+  }
+}

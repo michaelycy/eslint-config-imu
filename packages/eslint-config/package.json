@@ -1,0 +1,35 @@
+{
+  "name": "@imu/eslint-config",
+  "version": "0.0.1",
+  "description": "imu eslint typescript config",
+  "keywords": [
+    "eslint",
+    "typescript"
+  ],
+  "author": "miyoo <thenear@sina.com>",
+  "homepage": "https://github.com/michaelycy/eslint-config-imu/tree/master/packages/eslint-config-typescript#readme",
+  "license": "MIT",
+  "main": "lib/eslint-config-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelycy/eslint-config-imu/issues"
+  },
+  "dependencies": {
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "object.assign": "^4.1.2"
+  },
+  "peerDependencies": {
+    "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4 || ^3 || ^2.3.0 || ^1.7.0"
+  },
+  "engines": {
+    "node": ">= 6"
+  }
+}
